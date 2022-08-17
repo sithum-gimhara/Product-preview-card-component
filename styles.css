@@ -50,7 +50,7 @@ body {
   background-color: var(--white);
   flex-direction: column;
   justify-content: space-between;
-  padding: 35px;
+  padding: 28px;
 }
 
 .product-title {
